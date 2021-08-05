@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,0]
+//		"innerColor": [0,255,255]
+	},
+	{
+		"name": "The Vasa Pirates",
+		"leaderName": "Vas Montenegro",
+		"adjective": ["Pirates of Vasa"],
+		"startBias": ["Jungle","Marsh"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Hello Traveler, I hope you will not get in the way of the great Army of Pirates!",
+		"startIntroPart2": "Commander I hope you will revive the great power of the pirates and conquer many lands for us.",
+		
+		"declaringWar": "We'll open you up!!",
+		"attacked": "You declared war on us, but you didn't defeat us.!",
+		"defeated": "Come on, destroy me! pull the trigger!",
+		"introduction": "Hello, tourist! I've killed people like you! If you don't want to die, don't come into our territory!",
+		
+		"neutralHello": "Hello!",
+		"hateHello": "We'll kill you sooner or later!",
+		"tradeRequest": "How do you like this offer?",
+		"outerColor": [0,0,255],
+		"innerColor": [255,255,0],
+		"uniqueName": "Fertile Lands",
+		"uniques": ["Double quantity of [Wheat] produced","Double quantity of [Iron] produced","Double quantity of [Coal] produced","Double quantity of [Horses] produced"],
+		"cities": ["Amanaki Outpost", "Kradle's Gasoline",  "Hubert's Shore",  "Kell's Shipyard", "Valsa Docks", "Coastal Robber's", "House Old Nek's", "House  Nek's Diner", "Northview Gas Station",  "Cradle  Nat's Workshops", "Observation Deck",  "AFTER 12",  "Killer's Camp Rusty", "Yard Orphanage",  "Old Mines",  "Tequila Sunrise",  "Pride Farm"],
+		},

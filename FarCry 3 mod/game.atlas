@@ -1,0 +1,34 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Pirate Outpost
+  rotate: false
+  xy: 4, 1185
+  size: 1345, 750
+  orig: 1345, 750
+  offset: 0, 0
+  index: -1
+NationIcons/flag of the vasa pirates
+  rotate: false
+  xy: 4, 875
+  size: 604, 302
+  orig: 604, 302
+  offset: 0, 0
+  index: -1
+UnitIcons/ The pirate Vassa with an AK-47
+  rotate: false
+  xy: 1357, 1354
+  size: 384, 581
+  orig: 384, 581
+  offset: 0, 0
+  index: -1
+UnitIcons/Juggernaut
+  rotate: false
+  xy: 4, 4
+  size: 550, 863
+  orig: 550, 863
+  offset: 0, 0
+  index: -1

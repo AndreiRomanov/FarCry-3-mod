@@ -1,0 +1,33 @@
+[
+	{
+		"name": " The pirate Vassa with an AK-47",
+		"unitType": "Medium",
+		"replaces": "Gatling Gun",
+		"uniqueTo": "Pirates of Vasa",
+		"movement": 3,
+		"strength": 34,
+		"cost": 281,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"uniques": ["+[20]% combat bonus in [Grassland]","+[19]% combat bonus in [Forest]","+[18]% combat bonus in [Plains]"],
+		"attackSound": "shot"
+	},
+]
+
+[
+	{
+		"name": "Juggernaut",
+		"unitType": "Melee",
+		"replaces": "Gatling Gun",
+		"uniqueTo": "Pirates of Vasa",
+		"movement": 2,
+		"strength": 40,
+		"cost": 321,
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Industrialization",
+		"obsoleteTech": "Industrialization",
+		"uniques": ["+[19]% combat bonus in [Grassland]","+[20]% combat bonus in [Forest]","+[21]% combat bonus in [Plains]"],
+		"attackSound": "shot"
+	},
+]

@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Pirate Outpost",
+		"replaces": "Arsenal",
+		"cost": 300 ,
+		"uniqueTo": "Vasa Pirates",
+		"cityStrength": 9,
+		"cityHealth": 25,
+		"hurryCostModifier": 40,
+		"requiredBuilding": "Armory",
+		"requiredTech": "Metallurgy",
+	},
+]
